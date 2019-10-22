@@ -1,0 +1,141 @@
+nav {
+    /* border:1px solid black; */
+}
+
+
+.smlogos img {
+    float: right;
+    width:20px;
+    padding:3px;
+
+    
+    
+}
+span {
+    float: inherit;
+    font-size:10px;
+    margin: 10px;
+    text-align: justify;
+}
+h1 {
+    font-size:30px;
+    font-family: cursive;
+   text-align: justify;
+   margin:0px;
+   padding:0px;
+   /* float:left;  */
+ }
+.logo img{
+     float:left; 
+     padding:15px;
+}
+#h12 {
+    font-family: 'Impact','fantasy';
+    padding:0px;
+    margin:0px;
+}
+#big-pic{
+    text-align: center;
+    display:inline-block;
+    width:80%;
+    height:20%;
+}
+
+
+main {
+    text-align: center;
+    display:inline-block; 
+    /* border:1px solid black; */
+}
+#first-pg{
+    text-align: center;
+    color: rgba(85, 83, 83, 0.685);
+    font-family: Arial, sans-serif;
+}
+#second-pg{
+    text-align: center;
+    color: rgba(85, 83, 83, 0.685);
+    font-family: Arial, sans-serif;
+    
+}
+#third-pg{
+    text-align: center;
+    color: rgba(85, 83, 83, 0.685);
+    font-family: Arial, sans-serif;
+}
+#f1{
+    background-image: url("https://github.com/codefellows/amman-201d1/blob/master/class-10/lab-a/lab-assets/list-bg.png?raw=true");
+    text-align:left;  
+    
+    
+}
+#first-div{
+    float:left;
+    padding:30px;
+    margin:0px;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    color:rgba(85, 83, 83, 0.822);
+}
+#second-div{
+    float:left;
+    padding:30px;
+    margin:0px;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    color:rgba(85, 83, 83, 0.822);
+}
+#name{
+    font-size:25px;
+    font-family: Georgia, serif;
+    color:rgba(85, 83, 83, 0.822);
+   margin:20px;
+}
+#last-pic{
+    float: left;
+    width:70px;
+    padding:30px;
+}
+small-logo{
+    text-align: center;
+    
+
+}
+
+#last-p{
+   color: rgba(85, 83, 83, 0.822);
+
+}
+#dp{
+    color:rgba(85, 83, 83, 0.822);
+    font-size: 10px;
+    text-align: center;
+}
+#dp2{
+    color:rgba(85, 83, 83, 0.822);
+    font-size: 10px;
+    text-align: center;
+}
+#pp2{
+    text-align: left;
+    font-size:15px;
+    padding:2px;
+    color:rgba(85, 83, 83, 0.685);
+}
+#print{
+    float:right;
+}
+#printp{
+    float:right;
+    height:0px;
+    margin:0px;
+    padding:0px;
+    width:20px;
+    color: grey;
+    
+}
+button{
+    background-color: rgb(192, 120, 72);
+    width:15em;
+    height:4em;
+    float:right;
+    margin:0px;
+}
